@@ -44,7 +44,7 @@ By the end of this project, you will be able to:
 </h1>
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 
-Course project: Predict Sales for a catalogue launch  
+<i>Course project: Predict Sales for a catalogue launch</i>
 
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
 <h1 STYLE="color:DarkBlue;">
