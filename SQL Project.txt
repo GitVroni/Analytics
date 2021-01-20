@@ -1,0 +1,47 @@
+/1st QUESTION/
+SELECT SUM(il.UnitPrice*il.quantity), c.customerid, c.lastname, c.firstname, a.name, STRFTIME('%Y-%m-%d', i.invoicedate)
+FROM invoiceline il
+JOIN track t
+ON t.trackid=il.TrackId
+JOIN album al
+ON al.albumid=t.AlbumId
+JOIN invoice i
+ON i.invoiceid=il.invoiceid
+JOIN customer c
+ON c.customerid=i.customerid
+JOIN Artist a
+ON a.artistid=al.artistid
+WHERE a.name = 'Iron Maiden' AND c.customerid = 55
+GROUP BY c.customerid, c.lastname, c.firstname, i.invoicedate
+ORDER BY SUM(il.unitprice) DESC;
+---------
+/2nd QUESTION/
+SELECT customer_level, COUNT(*)
+FROM(SELECT c.customerid, c.firstname, c.lastname, SUM(i.total),
+CASE WHEN SUM(i.total) > 45 THEN 'top'
+     WHEN SUM(i.total) > 39 THEN 'middle'
+     ELSE 'low' END AS customer_level
+FROM customer c
+JOIN invoice i
+ON i.customerid=c.customerid
+GROUP BY c.customerid, c.firstname, c.lastname
+ORDER BY SUM(i.total) DESC)
+GROUP BY customer_level;
+----------
+/3rd QUESTION/
+SELECT COUNT(c.customerid) AS no_customers, e.lastname, e.firstname, e.employeeid
+FROM employee e
+JOIN customer c
+ON c.supportrepid=e.employeeid
+GROUP BY e.employeeid
+HAVING no_customers > 5
+ORDER BY 1 DESC;
+----------
+/4th QUESTION/
+SELECT COUNT(t.trackid) AS total_tracks,t.albumid, al.title
+FROM track t
+JOIN album al
+ON al.albumid=t.albumid
+GROUP BY t.albumid
+ORDER BY total_tracks DESC
+LIMIT 10;
