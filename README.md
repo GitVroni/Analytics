@@ -17,6 +17,7 @@ In this project, you will work with a New York Stock Exchange (NYSE) dataset tha
 In this project, you will be provided a dataset reflecting data collected from an experiment. You’ll use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report.
 
 <i> Course Project: Query Digital Music Store Database </i>
+
 By the end of this project, you will be able to:       
 <ul>
 <li>Write SQL to query a single table.</li>
@@ -42,7 +43,9 @@ By the end of this project, you will be able to:
 <b> Problem Solving with Advanced Analytics </b>
 </h1>
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
+
 Course project: Predict Sales for a catalogue launch  
+
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
 <h1 STYLE="color:DarkBlue;">
 <b> Data Wrangling </b>
