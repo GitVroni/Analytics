@@ -26,7 +26,6 @@ By the end of this project, you will be able to:
 <li>Install SQL on your own machine, upload a database.</li> 
 <li>Ask complex questions about the data in a database, and query the database to answer those questions.</li> 
 </ul>
-<h1 STYLE="color:DarkBlue;">
   
 <h1 STYLE="color:DarkBlue;">
 <b> Problem Solving with Advanced Analytics </b>
