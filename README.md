@@ -33,7 +33,7 @@ By the end of this project, you will be able to:
 </h1>
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 
-<Course Project: Predicting diamond prices </i>
+<i>Course Project: Predicting diamond prices </i>
 
 You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation. 
 
