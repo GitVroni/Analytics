@@ -1,6 +1,5 @@
 # Analytics
 This repository contains a list of projects carried out as part of Udacity's Business and Predictive Analytics Nanodegree Programs.
-
 <h1 STYLE="color:DarkBlue;">
 <b> Introduction to Data </b>
 </h1>
