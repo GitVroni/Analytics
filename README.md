@@ -1,1 +1,43 @@
 # Analytics
+This repository contains a list of projects carried out as part of Udacity's Business and Predictive Analytics Nanodegree Programs.
+<h1 STYLE="color:DarkBlue;">
+<b> SQL for Data Analysis </b>
+</h1>
+In this project, you will be provided a dataset reflecting data collected from an experiment. You’ll use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report.
+
+<i> Course Project: Query Digital Music Store Database </i>
+By the end of this project, you will be able to:       
+<ul>
+<li>Write SQL to query a single table.</li>
+<li>Write SQL to query multiple tables.</li>
+<li>Ask a question that requires data from multiple places, join the data together, and answer the question.</li>    
+<li>Install SQL on your own machine, upload a database.</li> 
+<li>Ask complex questions about the data in a database, and query the database to answer those questions.</li> 
+</ul>
+<h1 STYLE="color:DarkBlue;">
+  <b>Data Visualization with Tableau</b>
+  </h1>
+Sharing insights is an integral part of working with data. In this project, you’ll build interactive dashboards with Tableau to tell stories from data. 
+
+<i> Course Project: Build Data Dashboards </i>
+
+By the end of this project, you will be able to:
+<ul>
+  <li>Select the most appropriate data visualization for an analysis.</li>
+ <li>Evaluate the effectiveness of a data visualization.</li>
+ <li>Build interactive and engaging Tableau dashboards.</li>
+</ul>
+<h1 STYLE="color:DarkBlue;">
+<b> Problem Solving with Advanced Analytics </b>
+</h1>
+In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
+Course project: Predict Sales for a catalogue launch  
+A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
+<h1 STYLE="color:DarkBlue;">
+<b> Data Wrangling </b>
+</h1>
+Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types, dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
+
+<i> Course project: Create an analytical dataset </i>
+
+A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
