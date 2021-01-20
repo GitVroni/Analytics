@@ -13,6 +13,7 @@ In this project, you will work with a New York Stock Exchange (NYSE) dataset tha
 <h1 STYLE="color:DarkBlue;">
 <b> SQL for Data Analysis </b>
 </h1>
+
 In this project, you will be provided a dataset reflecting data collected from an experiment. You’ll use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report.
 
 <i> Course Project: Query Digital Music Store Database </i>
@@ -30,6 +31,7 @@ By the end of this project, you will be able to:
 <h1 STYLE="color:DarkBlue;">
 <b> Problem Solving with Advanced Analytics </b>
 </h1>
+
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 
 <i>Course Project: Predicting diamond prices </i>
@@ -43,6 +45,7 @@ A home-goods manufacturer wants to predict expected profits from a catalog launc
 <h1 STYLE="color:DarkBlue;">
 <b> Data Wrangling </b>
 </h1>
+
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types, dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 
 <i> Course project: Create an analytical dataset </i>
