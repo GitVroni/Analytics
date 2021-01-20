@@ -8,6 +8,7 @@ This repository contains a list of projects carried out as part of Udacity's Bus
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
 <i> Course project: Analyze NYSE Data </i>
+
 In this project, you will work with a New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. You will use spreadsheets to analyze and summarize the data using statistics and data visualizations. You will communicate the keyfindings in a professional manner. You will also design a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. You will then forecast financial metrics within the Income Statement, based on three scenarios with distinct assumptions for a company of your choice from the NYSE dataset. 
 
 <h1 STYLE="color:DarkBlue;">
