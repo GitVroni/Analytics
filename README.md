@@ -6,6 +6,7 @@ This repository contains a list of projects carried out as part of Udacity's Bus
 </h1>
 
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+
 <i> Course project: Analyze NYSE Data </i>
 
 In this project, you will work with a New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. You will use spreadsheets to analyze and summarize the data using statistics and data visualizations. You will communicate the keyfindings in a professional manner. You will also design a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. You will then forecast financial metrics within the Income Statement, based on three scenarios with distinct assumptions for a company of your choice from the NYSE dataset. 
@@ -26,26 +27,20 @@ By the end of this project, you will be able to:
 <li>Ask complex questions about the data in a database, and query the database to answer those questions.</li> 
 </ul>
 <h1 STYLE="color:DarkBlue;">
-  <b>Data Visualization with Tableau</b>
-  </h1>
-Sharing insights is an integral part of working with data. In this project, you’ll build interactive dashboards with Tableau to tell stories from data. 
-
-<i> Course Project: Build Data Dashboards </i>
-
-By the end of this project, you will be able to:
-<ul>
-  <li>Select the most appropriate data visualization for an analysis.</li>
- <li>Evaluate the effectiveness of a data visualization.</li>
- <li>Build interactive and engaging Tableau dashboards.</li>
-</ul>
+  
 <h1 STYLE="color:DarkBlue;">
 <b> Problem Solving with Advanced Analytics </b>
 </h1>
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 
+<Course Project: Predicting diamond prices </i>
+
+You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation. 
+
 <i>Course project: Predict Sales for a catalogue launch</i>
 
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
+
 <h1 STYLE="color:DarkBlue;">
 <b> Data Wrangling </b>
 </h1>
