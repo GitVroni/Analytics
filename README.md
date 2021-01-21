@@ -7,6 +7,7 @@ This repository contains a list of projects carried out as part of Udacity's Bus
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
 <i> Course project: Analyze NYSE Data </i>
+
 <p align="justify">
 In this project, you will work with a New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. You will use spreadsheets to analyze and summarize the data using statistics and data visualizations. You will communicate the keyfindings in a professional manner. You will also design a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. You will then forecast financial metrics within the Income Statement, based on three scenarios with distinct assumptions for a company of your choice from the NYSE dataset. 
 </p>
@@ -16,6 +17,7 @@ In this project, you will work with a New York Stock Exchange (NYSE) dataset tha
 <p align="justify">
 In this project, you will be provided a dataset reflecting data collected from an experiment. You’ll use statistical techniques to answer questions about the data and report your conclusions and recommendations in a report.
 </p>
+
 <i> Course Project: Query Digital Music Store Database </i>
 
 By the end of this project, you will be able to:       
@@ -33,10 +35,12 @@ By the end of this project, you will be able to:
 <p align="justify">
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
 </p>
+
 <i>Course Project: Predicting diamond prices </i>
 <p align="justify">
 You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation. 
 </p>
+
 <i>Course project: Predict Sales for a catalogue launch</i>
 <p align="justify">
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
@@ -47,6 +51,7 @@ A home-goods manufacturer wants to predict expected profits from a catalog launc
 <p align="justify">
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types, dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 </p>
+
 <i> Course project: Create an analytical dataset </i>
 <p align="justify">
 A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
