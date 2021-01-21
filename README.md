@@ -4,7 +4,9 @@ This repository contains a list of projects carried out as part of Udacity's Bus
 <b> Introduction to Data </b>
 </h1>
 
+<p align="justify">
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
+</p>
 
 <i> Course project: Analyze NYSE Data </i>
 
