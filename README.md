@@ -11,7 +11,7 @@ Learn how to use statistics and visuals to find and communicate insights. Develo
 <i><a href="https://github.com/GitVroni/Analytics/blob/main/Descriptive%20statistics.pdf">Course project: Analyze NYSE Data</a></i>
 
 <p align="justify">
-In this project, you will work with a New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. You will use spreadsheets to analyze and summarize the data using statistics and data visualizations. You will communicate the keyfindings in a professional manner. You will also design a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. You will then forecast financial metrics within the Income Statement, based on three scenarios with distinct assumptions for a company of your choice from the NYSE dataset. 
+In this project, you will work with a New York Stock Exchange (NYSE) dataset that contains fundamental financial data for 500 companies. You will use spreadsheets to analyze and summarize the data using statistics and data visualizations. You will communicate the key findings in a professional manner. You will also design a dashboard that calculates the financial metrics and auto populates the income statement for each company using data validation and advanced lookup tools within Excel. You will then forecast financial metrics within the Income Statement, based on three scenarios with distinct assumptions for a company of your choice from the NYSE dataset. 
 </p>
 <h1 STYLE="color:DarkBlue;">
 <b> SQL for Data Analysis </b>
