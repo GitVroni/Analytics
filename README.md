@@ -55,7 +55,7 @@ A home-goods manufacturer wants to predict expected profits from a catalog launc
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types, dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 </p>
 
-<i> <a href="https://github.com/GitVroni/Analytics/blob/main/Predicting%20Pet%20Store%20Location.pdf">Course project: Create an analytical dataset</a></i>
+<i> <a href="https://github.com/GitVroni/Analytics/blob/main/Predicting%20Pet%20Store%20Location.pdf">Course project: Create an analytical dataset and select location of the new pet store</a></i>
 <p align="justify">
 A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
 </p>
