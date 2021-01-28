@@ -63,7 +63,10 @@ A pet store chain is selecting the location for its next store. You will use dat
 <h1 STYLE="color:DarkBlue;">
 <b> Classification Models </b>
 </h1>
-
+<p align="justify">
+Classification models are a powerful tool for business analyst. In this course, you learn more about binary and non-binary classification models and how to use them to drive business insights.
+  </p>
+  
 <i> <a href="https://github.com/GitVroni/Analytics/blob/main/Predicting%20Default%20Risk.pdf">Course Project: Predict Loan Default Risk</a></i>
 <p align="justify">
 A bank recently received an influx of loan applications. You will build and apply a classification model to provide a recommendation on which loan applicants the bank should lend to.
