@@ -59,3 +59,11 @@ Data Wrangling is at the core of all data activity. In this course you learn how
 <p align="justify">
 A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
 </p>
+
+<h1 STYLE="color:DarkBlue;">
+<b> Classification Models </b>
+</h1>
+<p align="justify">
+  <i> >a href="https://github.com/GitVroni/Analytics/blob/main/Predicting%20Default%20Risk.pdf">Course Project: Predict Loan Default Risk</a></i>
+A bank recently received an influx of loan applications. You will build and apply a classification model to provide a recommendation on which loan applicants the bank should lend to.
+</p>
