@@ -71,3 +71,16 @@ Classification models are a powerful tool for business analyst. In this course, 
 <p align="justify">
 A bank recently received an influx of loan applications. You will build and apply a classification model to provide a recommendation on which loan applicants the bank should lend to.
 </p>
+
+<h1 STYLE="color:DarkBlue;">
+<b> A/B Testing </b>
+</h1>
+<p align="justify">
+  Helping businesses make the best decisions is an essential part of Business Analysis. Planning and executing the analysis of an AB test allow you to provide confident recommendations.
+</p>
+
+<i> <a href=https://github.com/GitVroni/Analytics/blob/main/Analyzing%20a%20Market%20Test.pdf>Course Project: A/B Test a Menu Launch</a></i>
+<p align="justify">
+A chain of coffee shops is considering launching a new menu. You will design and analyze an A/B test and write up a recommendation on whether the chain should introduce the new menu.
+</p>
+
