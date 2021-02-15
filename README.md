@@ -90,7 +90,8 @@ A chain of coffee shops is considering launching a new menu. You will design and
 <p align="justify">
 Time Series Forecasting is a powerful analytical tool. In this course, you learn how ETS and ARIMA models are used to forecast data and how they deal with trends and seasonality.
   </p>
-<i> <a href=https://github.com/GitVroni/Analytics/blob/main/Forecasting%20demand_TS.pdf>Course Project: Forecast Video Game Demand </a></i>
+  
+<i> <a href=https://github.com/GitVroni/Analytics/blob/main/Forecasting%20demand_TS.pdf> Course Project: Forecast Video Game Demand </a></i>
 <p align="justify">
 A video game producer is planning production levels. You will use time series forecasting models to forecast monthly demand and provide a recommendation to help match supply to demand.
 </p>
