@@ -96,4 +96,14 @@ Time Series Forecasting is a powerful analytical tool. In this course, you learn
 A video game producer is planning production levels. You will use time series forecasting models to forecast monthly demand and provide a recommendation to help match supply to demand.
 </p>
 
+<h1 STYLE="color:DarkBlue;">
+<b> Segmentation and Clustering </b>
+</h1>
+<p align="justify">
+Segmentation and Clustering are effective methods for finding patterns in your data. In this course, you learn how to prepare data to be clustered appropriately and interpret results.
+  </p>
 
+<i> <a href=https://github.com/GitVroni/Analytics/blob/main/Predictive%20Analytics%20Capstone.pdf> Course Project: Combine Predictive Techniques </a></i>
+<p align="justify">
+A grocery store chain is planning a significant expansion. You will use multiple analytical techniques to provide recommendations on how to expand. After completing the project, you will feel comfortablecombining predictive techniques and delivering results to complex business problems
+</p>
